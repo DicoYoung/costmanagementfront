@@ -1,4 +1,4 @@
-# costmanagement
+# costmanagement（NOT INCLUDE NODE_MODULES）
 
 ## Project setup
 ```
