@@ -1,26 +1,29 @@
-# costmanagementfront
-the front of cost management system
+# costmanagement
 
-前端项目建立：
+## Project setup
+```
+npm install
+```
 
-1.vue create costmanagement
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
 
-2.manually select features
+### Compiles and minifies for production
+```
+npm run build
+```
 
-3.Babel+Router+Vuex+CSS
+### Run your tests
+```
+npm run test
+```
 
-4.yes+less+in package.json+N （在git上下的）
+### Lints and fixes files
+```
+npm run lint
+```
 
-5.出现“cd costmanagement/npm run serve”（安装成功）
-
-6.cd CM（costmanagement）
-
-7.vue add axios
-
-8.vue add element
-
-9.fully+N+zh-CN
-
-10.切回HB，打开项目，右键选择命令行打开 npm run serve
-
-11.访问localhost：8080（80是访问的默认端口，这样就不用了再输入8080）
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
